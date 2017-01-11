@@ -1,6 +1,6 @@
 # EloEx
 
-**TODO: Add description**
+EloCalculator.rating_change(winner_rating, loser_rating) returns the net change in rating. Increase winners rating by changed amount and decrease losers rating by the changed amount.
 
 ## Installation
 
